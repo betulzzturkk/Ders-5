@@ -1,0 +1,10 @@
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\bin\Debug\Besinci Ders.exe.config
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\bin\Debug\Besinci Ders.exe
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\bin\Debug\Besinci Ders.pdb
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\obj\Debug\Besinci Ders.csproj.AssemblyReference.cache
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\obj\Debug\Besinci_Ders.Form1.resources
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\obj\Debug\Besinci_Ders.Properties.Resources.resources
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\obj\Debug\Besinci Ders.csproj.GenerateResource.cache
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\obj\Debug\Besinci Ders.csproj.CoreCompileInputs.cache
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\obj\Debug\Besinci Ders.exe
+C:\Users\betulozturk\OneDrive\Desktop\udemy\dersbes\Besinci Ders\Besinci Ders\obj\Debug\Besinci Ders.pdb
